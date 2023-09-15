@@ -23,7 +23,6 @@ gets(nombre);
          }
     }
 
-    printf("%d",contApro[0]);
     printf("Alumno: %s \n", nombre);
     printf("\tMates\tLengua\tIngles\tGeo\tBio\n");
 
